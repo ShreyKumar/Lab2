@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+vmux2to1
+Z0 !s110 1496348441
+!i10b 1
+!s100 nhzk2JBec6<Ga@gX^3H9a3
+I]n;meX6NOdi?Ei6?kN17z1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/cygwin64/home/Shreyansh/UofT/CSC258/summer/lab2/part2
+Z3 w1496348425
+Z4 8mux4to1.v
+Z5 Fmux4to1.v
+L0 35
+Z6 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z7 !s108 1496348441.000000
+Z8 !s107 mux4to1.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|mux4to1.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+vmux4to1
+R0
+!i10b 1
+!s100 g0M_@;V?Pd4fR42V=46621
+ImHh^_=<4e^a`0cRLjeFG>0
+R1
+R2
+R3
+R4
+R5
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
