@@ -9,13 +9,13 @@ z2
 cModel Technology
 dC:/altera/16.0
 vsevenseg
-!s110 1496356188
+!s110 1496356837
 !i10b 1
-!s100 4mdn7D3QBUz3aGhJgfbca2
-IfCVR:FXiQ;[3FVmHAJj7i1
+!s100 cYolAa;hRO3W`YVW66M2;0
+IYihX5RNlPWo[4QZc2RdbJ1
 VDg1SIo80bB@j0V0VzS_@n1
 dC:/cygwin64/home/Shreyansh/UofT/CSC258/summer/lab2/part3
-w1496355843
+w1496356828
 8sevenseg.v
 Fsevenseg.v
 L0 2
@@ -23,7 +23,7 @@ OV;L;10.4d;61
 r1
 !s85 0
 31
-!s108 1496356187.000000
+!s108 1496356837.000000
 !s107 sevenseg.v|
 !s90 -reportprogress|300|-timescale|1ns/1ns|sevenseg.v|
 !i113 1
